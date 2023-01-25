@@ -21,6 +21,6 @@
   
   
  ## Tecnologias utilizadas:
-  ReactJs.
+  JavaScript - ReactJs.
 
 
